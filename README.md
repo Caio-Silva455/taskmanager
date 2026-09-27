@@ -30,7 +30,7 @@ docker compose up -d --build
 
 ### 3. Acessar a aplicação
 
-Abra o navegador em: http://localhost:8080
+Abra o navegador em: http://localhost:8082
 
 ### 4. Ver os logs do container
 
