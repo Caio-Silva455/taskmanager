@@ -17,7 +17,7 @@ Sistema para gerenciamento e organizacao de tarefas.
 - Docker instalado
 - Docker Compose instalado (já incluso no Docker Desktop)
 
-### 1. Clonar o repositório
+### 1. Clonar o repositório    
 
 git clone https://github.com/Caio-Silva455/taskmanager.git
 cd taskmanager
@@ -43,16 +43,15 @@ docker compose down
 
 
 ### 6. Reconstruir após alterações
-
 docker compose up -d --build
 
 
 ## Estrutura do projeto
-
 taskmanager/
-├── public/
-│ └── index.html
-├── Dockerfile
-├── docker-compose.yml
-├── .dockerignore
-└── README.md
+public/
+index.html
+Dockerfile
+docker-compose.yml
+.dockerignore
+README.md
+
