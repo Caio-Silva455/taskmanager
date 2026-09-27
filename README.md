@@ -1,6 +1,6 @@
 # TaskManager
 
-Sistema de gerenciamento de tarefas.
+Sistema para gerenciamento e organizacao de tarefas.
 
 ## Conclusão de tarefas
 
