@@ -7,3 +7,5 @@ Sistema para gerenciamento e organizacao de tarefas.
 ## Definição de prioridade das tarefas
 
 ## Versão 1.0.0
+
+## Versão 1.1.0 - Containerização com Docker
